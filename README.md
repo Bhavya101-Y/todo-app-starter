@@ -11,6 +11,6 @@ For: JS Bootcamp by Letsupgrade
 
 Features:
 
-Add new tasks to the list
-Mark completed tasks as done
-Delete completed tasks from the list
+- Add new tasks to the list
+- Mark completed tasks as done
+- Delete completed tasks from the list
